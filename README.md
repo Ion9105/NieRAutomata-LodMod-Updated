@@ -1,4 +1,6 @@
-# NieRAutomata-LodMod
+# NieRAutomata-LodMod-Updated
+
+This is an updated version of the NieRAutomata-LodMod, that has been updated for the 2026 Steam version of the game, but will also work on older versions and non-steam versions.
 
 An XInput/DInput/DXGI wrapper DLL that hooks into NieR Automata (PC ver.) and disables object LODs, improves shadow quality/distances, and much more!
 
